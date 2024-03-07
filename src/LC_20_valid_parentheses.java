@@ -36,7 +36,6 @@ public class LC_20_valid_parentheses {
             } else {
                 return false;
             }
-
         }
     }
     public static void main(String[] args) {
